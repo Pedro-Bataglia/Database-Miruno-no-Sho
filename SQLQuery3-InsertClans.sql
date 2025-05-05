@@ -15,3 +15,5 @@ INSERT INTO Clan VALUES
 (9, 'Aburame', 900, 'Kikaichuu', 'Insect body, comunication', 'hexagon with internal lines', 1),
 (10, 'Kazekage', 1300, 'Sabaku', 'Genius', 'Stylized Sand Emblem', 2),
 (11, 'Awayuki', 700, 'hyoton', 'Dokujutsu, beast power', 'A Grey-Blue Ice Star', 6)
+
+INSERT INTO Clan VALUES(12, 'Uzumaki', 1300, 'Strong Body', 'Seal and Clone', 'A red spiral', 5)
